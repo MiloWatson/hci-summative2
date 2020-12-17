@@ -30,8 +30,8 @@
 
     <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-                <a class="nav-link" href="#">HOME <span class="sr-only">(current)</span></a>
+            <li class="nav-item">
+                <a class="nav-link" href="main.html">HOME <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="https://my.uea.ac.uk/news" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">NEWS</a>
@@ -76,8 +76,8 @@
                     <a class="dropdown-item" href="https://my.uea.ac.uk/faculties-and-schools/faculty-of-social-sciences">Faculty of Social Sciences</a>
                 </div>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="about us.html">ABOUT US <span class="sr-only">(current)</span></a>
+            <li class="nav-item active">
+                <a class="nav-link" href="#">ABOUT US <span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="contact us.html">CONTACT US <span class="sr-only">(current)</span></a>
@@ -102,16 +102,6 @@
 </nav>
 
 <main role="main">
-    <div class="tabContainer">
-        <div class="buttonContainer">
-            <button onclick="showPanel(0,'#2196f3')">Covid Testing </button>
-            <button onclick="showPanel(1,'#2196f3')">Covid Notification Form</button>
-            <button onclick="showPanel(2,'#2196f3')">Covid Symptoms</button>
-        </div>
-        <div class="tabPanel">Tab 1:Content</div>
-        <div class="tabPanel">Tab 2:Content</div>
-        <div class="tabPanel">Tab 3:Content</div>
-    </div>
 
     <div class="container">
         <!-- Example row of columns -->
@@ -132,81 +122,6 @@
                 <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
             </div>
         </div>
-
-        <div class="scrolling-wrapper-flexbox">
-            <div class="card"> <img class="card-img-top" src="images/SafetyFirst.jpg" alt="Card image">
-                <div class="card-body">
-                    <h4 class="card-title">COVID-19 Update</h4>
-                    <p class="card-text">Please read for an update on case numbers, a reminder on safety measures and what the University is doing to support students in self-isolation.</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/covid-19-update" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/Payroll.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">December Payroll</h4>
-                    <p class="card-text">UEA will be issuing payslips for this month on Friday 18 December. </p>
-                    <a href="https://my.uea.ac.uk/news/-/article/december-payroll" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/ArjBlur.jpg" alt="Card image">
-                <div class="card-body">
-                    <h4 class="card-title">Spotlight on accessing Wellbeing Services</h4>
-                    <p class="card-text">Now perhaps more than ever, it’s important that we prioritise our mental health. Read Pharmacy student Arj’s story of accessing Wellbeing services at UEA.</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/spotlight-on-accessing-wellbeing-services" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/WinterWarmth.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">Winter Warmth launch</h4>
-                    <p class="card-text">Craft sessions, free festive meal boxes, COVID-secure get togethers, and campus treasure hunts – find all this and more in our Winter Warmth programme for...</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/winter-warmth-launch" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/PostRoom.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">Meet the staff keeping campus running</h4>
-                    <p class="card-text">In the second in a series of videos celebrating the hundreds of staff members who have helped keep campus going in 2020, we focus on UEA’s Post and Portering team.</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/meet-the-staff-keeping-campus-running-1" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/JanCovidTest.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">Book your COVID-19 test for January 2021</h4>
-                    <p class="card-text">All students and staff, who are regularly on campus, will be able to get tested for COVID-19 when they return to the University in the New Year.</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/book-your-covid-19-test-for-january-2021" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/CampusWinter.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">Winter opening hours</h4>
-                    <p class="card-text">With term drawing to a close and the winter break fast approaching, some facilities and services at UEA will have reduced opening hours and partial closures. </p>
-                    <a href="https://my.uea.ac.uk/news/-/article/winter-opening-hours" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/CarbonEmissions.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">UEA continues to lead the way in climate change research</h4>
-                    <p class="card-text">Researchers from UEA’s School of Environmental Sciences, in conjunction with University of Exeter and the Global Carbon Project, have discovered that the global...</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/uea-continues-to-lead-the-way-in-climate-change-research" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/TestingImage.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">6700 COVID-19 tests delivered by UEA team</h4>
-                    <p class="card-text">Thanks to a dedicated team of 152 student workers and 25 staff, UEA delivered an impressive 6,700 rapid COVID-19 tests over 11 consecutive days to allow lots of...</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/6700-covid-19-tests-delivered-by-uea-team" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-            <div class="card"> <img class="card-img-top" src="images/HelenWiseman.jpg" alt="Card image" >
-                <div class="card-body">
-                    <h4 class="card-title">Actions from the COVID-19 Staff Survey</h4>
-                    <p class="card-text">Mental health support, workload and job security were top of the staff feedback list. Helen Wiseman, Director of People and Culture, updates on what’s been put...</p>
-                    <a href="https://my.uea.ac.uk/news/-/article/actions-from-the-covid-19-staff-survey" class="btn btn-outline-primary btn-sm">Read more</a>
-                </div>
-            </div>
-        </div>
-
-        <hr>
 
     </div> <!-- /container -->
 
