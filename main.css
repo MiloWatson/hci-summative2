@@ -70,8 +70,9 @@ footer_links {
 }
 
 .tabContainer{
-    width: 100%;
+    width: 58%;
     height: 350px;
+    margin-inline: auto;
 }
 
 .tabContainer .buttonContainer{
@@ -86,7 +87,7 @@ footer_links {
     outline: #491217;
     cursor: pointer;
     padding: 10px;
-    font-family: sans-serif;
+    font-family: 'Brandon Text','brandon-grotesque',sans-serif !important;
     font-size: 18px;
     background-color: #b8daff;
 }
@@ -99,7 +100,7 @@ footer_links {
     height: 85%;
     background-color: grey;
     color: white;
-    text-align: left;
+    text-align: center;
     padding-top: 105px;
     box-sizing: border-box;
     font-family: 'Brandon Text','brandon-grotesque',sans-serif !important;
