@@ -257,6 +257,26 @@ btn{
     background-color: #fff;
 }
 
+.newslink{
+    color: white;
+    text-decoration: none;
+}
+
+.newslink:hover{
+    color: white;
+}
+
+.mainnewslink{
+    color: black;
+    text-decoration: none;
+}
+
+.mainnewslink:hover{
+    color: black;
+    text-decoration: none;
+}
+
+
 @media screen and (min-width: 601px) {
     .tabContainer .buttonContainer button {
         font-size: 15px;
