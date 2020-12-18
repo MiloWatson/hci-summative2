@@ -253,6 +253,10 @@ btn{
     color: rgb(0, 174, 239);
 }
 
+.newshr{
+    background-color: #fff;
+}
+
 @media screen and (min-width: 601px) {
     .tabContainer .buttonContainer button {
         font-size: 15px;

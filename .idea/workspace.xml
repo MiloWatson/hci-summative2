@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="adding map to contact page">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_error.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_grid.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_modal.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_navbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_print.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_reboot.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_wrapper.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery.easeScroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor.bundle.base.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
