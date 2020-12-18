@@ -22,6 +22,10 @@ hr.nav-line {
     color: white;
 }
 
+.nav-item active{
+    color: rgb(0, 174, 239);
+}
+
 .navbar {
     background-color: #282828 !important;
 }
