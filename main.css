@@ -240,6 +240,10 @@ img {
     transition-delay:.2s;
 }
 
+.linktext{
+    color: white;
+}
+
 btn{
     color: rgb(0, 174, 239);
 }
