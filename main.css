@@ -239,3 +239,7 @@ img {
     -webkit-transition-delay:.2s;
     transition-delay:.2s;
 }
+
+btn{
+    color: rgb(0, 174, 239);
+}
