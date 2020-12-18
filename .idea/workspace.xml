@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="news updated" />
+    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="editing image sizing for quick links" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,11 +11,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lnvmbVezHwA1w8ZD60SDAhjxMy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -86,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608300619644</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="editing image sizing for quick links">
+      <created>1608300978286</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608300978286</updated>
+    </task>
+    <task id="LOCAL-00008" summary="editing image sizing for quick links">
+      <created>1608301049255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1608301049255</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,11 +123,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Color correction, matching brand colors of UEA" />
     <MESSAGE value="Adding icons for evision, blackboard and outlook" />
     <MESSAGE value="fixing links" />
     <MESSAGE value="adding map to contact page" />
     <MESSAGE value="news updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="news updated" />
+    <MESSAGE value="editing image sizing for quick links" />
+    <option name="LAST_COMMIT_MESSAGE" value="editing image sizing for quick links" />
   </component>
 </project>

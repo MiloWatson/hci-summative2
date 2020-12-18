@@ -11,6 +11,11 @@ hr.nav-line {
     border-top:10px solid rgb(0, 174, 239);
 }
 
+.btn-primary{
+    background-color: rgb(0, 174, 239);
+    border-color: rgb(0, 174, 239);
+}
+
 .navbar-brand {
     font-size: 24px;
     font-weight: 600;
