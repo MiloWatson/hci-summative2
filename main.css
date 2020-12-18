@@ -125,6 +125,12 @@ footer_links {
     width: 18rem;
 }
 
+.my-custom-scrollbar {
+    position: relative;
+    overflow: auto;
+    height: 200px;
+}
+
 .jumbotron {
     background-image: url("images/uea_scenery.jpg");
     background-size: cover;
