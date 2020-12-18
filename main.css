@@ -75,12 +75,14 @@ footer_links {
 
 .tabContainer{
     width: 58%;
-    height: 350px;
+    height: 250px;
     margin-inline: auto;
+
 }
 
 .tabContainer .buttonContainer{
-    height: 15%;
+    height: 20%;
+
 }
 
 .tabContainer .buttonContainer button{
@@ -94,10 +96,12 @@ footer_links {
     font-family: 'Brandon Text','brandon-grotesque',sans-serif !important;
     font-size: 18px;
     background-color: #b8daff;
+
 }
 
 .tabContainer .buttonContainer button:hover{
     background-color: #9fcdff;
+
 }
 
 .tabContainer .tabPanel{
@@ -110,6 +114,7 @@ footer_links {
     font-family: 'Brandon Text','brandon-grotesque',sans-serif !important;
     font-size: 22px;
     display: none;
+
 }
 
 .coronaNotice{
@@ -247,3 +252,28 @@ img {
 btn{
     color: rgb(0, 174, 239);
 }
+
+@media screen and (min-width: 601px) {
+    .tabContainer .buttonContainer button {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 790px) {
+    .tabContainer .buttonContainer button {
+        font-size: 10px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .tabContainer .tabPanel {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 790px) {
+    .tabContainer .tabPanel {
+        font-size: 12px;
+    }
+}
+
