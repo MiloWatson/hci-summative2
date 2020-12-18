@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="editing image sizing for quick links" />
+    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="editing image sizing for quick links">
+      <change beforePath="$PROJECT_DIR$/contact us.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact us.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +37,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="C:\Users\TOGS\WebstormProjects\hci-summative2" />
     </key>
   </component>
