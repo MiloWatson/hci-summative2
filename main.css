@@ -124,3 +124,20 @@ footer_links {
     flex: 0 0 auto;
     width: 18rem;
 }
+
+.jumbotron {
+    background-image: url("images/uea_scenery.jpg");
+    background-size: cover;
+}
+
+.for-about{
+    height: 350px;
+}
+
+.about-us-logo{
+    max-width: 45%;
+}
+
+img {
+    max-width: 100%;
+}

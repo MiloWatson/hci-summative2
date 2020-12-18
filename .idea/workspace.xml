@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
+    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="about us">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,14 @@
       <updated>1608245830893</updated>
       <workItem from="1608245832572" duration="1311000" />
     </task>
+    <task id="LOCAL-00001" summary="about us">
+      <created>1608247984630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608247984630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="about us" />
+    <option name="LAST_COMMIT_MESSAGE" value="about us" />
   </component>
 </project>
