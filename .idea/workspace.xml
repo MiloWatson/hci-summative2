@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="about us">
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
+    <list default="true" id="e14b7491-dda0-499f-9d18-984ad29be21b" name="Default Changelist" comment="Color correction, matching brand colors of UEA">
+      <change afterPath="$PROJECT_DIR$/UEA_Brand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outlook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,11 +27,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TOGS\WebstormProjects\hci-summative2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,12 +49,12 @@
       <updated>1608245830893</updated>
       <workItem from="1608245832572" duration="1311000" />
     </task>
-    <task id="LOCAL-00001" summary="about us">
-      <created>1608247984630</created>
+    <task id="LOCAL-00001" summary="Color correction, matching brand colors of UEA">
+      <created>1608252034802</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1608247984630</updated>
+      <updated>1608252034802</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
@@ -65,9 +72,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="about us" />
-    <option name="LAST_COMMIT_MESSAGE" value="about us" />
+    <MESSAGE value="Color correction, matching brand colors of UEA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Color correction, matching brand colors of UEA" />
   </component>
 </project>
